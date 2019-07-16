@@ -1,0 +1,3 @@
+upgrades:
+  pkg.upgrade:
+    - name: '*'
